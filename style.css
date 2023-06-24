@@ -1,65 +1,6 @@
 /*
-Theme Name: Insove Medical Healthcare
-Theme URI: 
-Author: 
-Author URI: 
-Description: Insove Medical Healthcare is specially designed product packaged for Insove Medical Healthcare by TemplatesJungle.
-Version: 
+https://denta-medical.github.io/denta-medical.github/
 */
-
-/*--------------------------------------------------------------
-This is main CSS file that contains custom style rules used in this template
---------------------------------------------------------------*/
-
-/*------------------------------------*\
-    Table of contents
-\*------------------------------------*/
-
-/*------------------------------------------------
-
-CSS STRUCTURE:
-
-1. VARIABLES
-
-2. GENERAL TYPOGRAPHY
-  2.1 General Styles
-  2.2 Text Color & Weight
-  2.3 Background Color
-  2.4 Border Radius
-  2.5 Section
-    - Section Paddings
-    - Section Margins
-    - Section Title
-    - Content width
-  2.6 Buttons
-    - Button Sizes
-    - Button Shapes
-    - Button Color Scheme
-    - Button Aligns
-
-3. CONTENT ELEMENTS
-  - Dropdown
-  - Svg Color
-  - Search Bar
-
-4. SITE STRUCTURE
-  4.1 Header
-  4.2 Intro
-  4.3 Best Services Section
-  4.4 Book Appointment Section
-  4.5 Testimonial Section
-  4.6 Our Team Section
-  4.7 Faqs Section
-  4.8 Tabs- Department Section
-  4.9 Blog Section
-  4.10 Brand Section
-  4.11 Subscribe Section
-  4.12 Footer
-
-    
-/*--------------------------------------------------------------
-/** 1. VARIABLES
---------------------------------------------------------------*/
 :root {
   --accent-color:             #333;
   --black-color:              #000;
@@ -77,8 +18,6 @@ CSS STRUCTURE:
 
 }
 
-/* on mobile devices below 600px
- */
 @media screen and (max-width: 600px) {
     :root {
         --header-height : 100px;
@@ -86,7 +25,6 @@ CSS STRUCTURE:
     }
 }
 
-/* Fonts */
 :root {
     --body-font           : "Poppins", sans-serif;
     --heading-font        : "Poppins", sans-serif;
